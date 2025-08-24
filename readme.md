@@ -16,20 +16,20 @@ java OddEven 17
 java SimpleInterest 2000 5 3
 
 
-| #  | File                  | Purpose                                                     | How to Run                     |
-| -- | --------------------- | ----------------------------------------------------------- | ------------------------------ |
-| 1  | `Sum.java`            | Adds two hard-coded integers and prints the result.         | `java Sum`                     |
-| 2  | `SimpleInterest.java` | Calculates simple interest from CLI args: `P R T`.          | `java SimpleInterest 1000 5 2` |
-| 3  | `Swap.java`           | Swaps two hard-coded integers using a temp variable.        | `java Swap`                    |
-| 4  | `CircleArea.java`     | Displays area of a circle (hard-coded radius).              | `java CircleArea`              |
-| 5  | `OddEven.java`        | Tells if the CLI arg is odd or even.                        | `java OddEven 42`              |
-| 6  | `Compare.java`        | Compares two CLI numbers with an else-if ladder.            | `java Compare 12 9`            |
-| 7  | `Marks.java`          | Computes total, average, and grade for 3 CLI marks.         | `java Marks 85 92 78`          |
-| 8  | `Min3.java`           | Finds the smallest of 3 CLI numbers.                        | `java Min3 12 7 25`            |
-| 9  | `SquareOrCube.java`   | Prints square of the larger CLI arg or cube of the smaller. | `java SquareOrCube 5 3`        |
-| 10 | `Table.java`          | Prints the multiplication table (1–10) of the CLI arg.      | `java Table 7`                 |
-| 11 | `Fibonacci.java`      | Lists Fibonacci numbers up to the CLI limit.                | `java Fibonacci 50`            |
-| 12 | `Factorial.java`      | Computes factorial of the CLI arg.                          | `java Factorial 5`             |
+| #  | File                | Purpose                                                    | How to Run                     |
+|----|---------------------|------------------------------------------------------------|--------------------------------|
+| 1  | `sum.java`          | Adds two hard-coded integers and prints the result.        | `java sum`                     |
+| 2  | `dynamic_int.java`  | Calculates simple interest from CLI args: `P R T`.         | `java dynamic_int 1000 5 2`    |
+| 3  | `swap.java`         | Swaps two hard-coded integers using a temp variable.       | `java swap`                    |
+| 4  | `area_circle.java`  | Displays area of a circle (hard-coded radius).             | `java area_circle`             |
+| 5  | `dynamic_odd_even.java` | Tells if the CLI arg is odd or even.                   | `java dynamic_odd_even 42`     |
+| 6  | `value.java`        | Compares two CLI numbers with an else-if ladder.           | `java value 12 9`              |
+| 7  | `marksheet.java`    | Computes total, average, and grade for 3 CLI marks.        | `java marksheet 85 92 78`      |
+| 8  | `minimum.java`      | Finds the smallest of 3 CLI numbers.                       | `java minimum 12 7 25`         |
+| 9  | `int.java`          | Prints square of the larger CLI arg or cube of the smaller.| `java int 5 3`                 |
+| 10 | `table.java`        | Prints the multiplication table (1–10) of the CLI arg.     | `java table 7`                 |
+| 11 | `Fibonacci.java`    | Lists Fibonacci numbers up to the CLI limit.               | `java Fibonacci 50`            |
+| 12 | `factorial.java`    | Computes factorial of the CLI arg.                         | `java factorial 5`             |
 
 ```
 
