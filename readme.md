@@ -30,3 +30,25 @@ java SimpleInterest 2000 5 3
 | 10 | `Table.java`          | Prints the multiplication table (1–10) of the CLI arg.      | `java Table 7`                 |
 | 11 | `Fibonacci.java`      | Lists Fibonacci numbers up to the CLI limit.                | `java Fibonacci 50`            |
 | 12 | `Factorial.java`      | Computes factorial of the CLI arg.                          | `java Factorial 5`             |
+
+```
+
+## Repo Structure 
+
+```bash 
+JavaBasics/
+├── Sum.java
+├── Int.java
+├── Swap.java
+├── CircleArea.java
+├── OddEven.java
+├── Compare.java
+├── Marksheet.java
+├── Minimum.java
+├── SquareOrCube.java
+├── Table.java
+├── Fibonacci.java
+├── Factorial.java
+└── README.md   ← you are here
+
+```
