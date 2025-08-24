@@ -1,4 +1,4 @@
-# 🎓 Java Basics Assignment – Quick Reference
+# 🎓 Java Basics  – Quick Reference
 
 > A tiny collection of beginner Java programs that cover the essentials: arithmetic, logic, loops, and arrays.  
 > All programs are self-contained, compile with `javac <File>.java`, and run via command-line arguments where needed.
@@ -36,19 +36,19 @@ java SimpleInterest 2000 5 3
 ## Repo Structure 
 
 ```bash 
-JavaBasics/
-├── Sum.java
-├── Int.java
-├── Swap.java
-├── CircleArea.java
-├── OddEven.java
-├── Compare.java
-├── Marksheet.java
-├── Minimum.java
-├── SquareOrCube.java
-├── Table.java
-├── Fibonacci.java
-├── Factorial.java
-└── README.md   ← you are here
-
+Fibonacci.java
+Create area_circle.java
+dynamic_int.java
+dynamic_odd_even.java
+factorial.java
+int.java	
+marksheet.java
+minimum.java
+odd_even.java
+sum.java
+Create sum.java
+swap.java
+table.java
+value.java
+readme.md <- You are here
 ```
