@@ -35,20 +35,21 @@ java SimpleInterest 2000 5 3
 
 ## Repo Structure 
 
-```bash 
-Fibonacci.java
-Create area_circle.java
-dynamic_int.java
-dynamic_odd_even.java
-factorial.java
-int.java	
-marksheet.java
-minimum.java
-odd_even.java
-sum.java
-Create sum.java
-swap.java
-table.java
-value.java
-readme.md <- You are here
+```bash
+Basic-Java/
+  Fibonacci.java
+  Create area_circle.java
+  dynamic_int.java
+  dynamic_odd_even.java
+  factorial.java
+  int.java	
+  marksheet.java
+  minimum.java
+  odd_even.java
+  sum.java
+  Create sum.java
+  swap.java
+  table.java
+  value.java
+  readme.md <- You are here
 ```
